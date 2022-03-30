@@ -15,5 +15,10 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Run test cases
+```
+npm run test
+```
+
+### View Live
+See [eexar-test-task](https://bilal-abbas-gigalabs.github.io/eexar-test-task-1).
